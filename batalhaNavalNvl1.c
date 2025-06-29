@@ -31,5 +31,9 @@ int main(){
     }
     printf("\n");
   }
+
+  printf("a posição do navio 1: J 0\n");
+  printf("a posição do navio 2: D 3\n");
+  
   return 0;
 }
