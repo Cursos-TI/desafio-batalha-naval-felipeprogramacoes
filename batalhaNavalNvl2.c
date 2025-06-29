@@ -56,7 +56,10 @@ for (int i = 1; i < tamanho; i++)
     printf("\n");
   }
 
-  
+  printf("a posição do navio 1: J,0; J,1; J,2\n");
+  printf("a posição do navio 2: D,3; E,3; F,3\n");
+  printf("a posição do navio 3: B,3; C,2; D,1\n");
+  printf("a posição do navio 4: H,7; I,8; J,9\n"); 
 
 
   return 0;

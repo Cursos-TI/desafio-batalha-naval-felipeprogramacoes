@@ -32,8 +32,8 @@ int main(){
     printf("\n");
   }
 
-  printf("a posição do navio 1: J 0\n");
-  printf("a posição do navio 2: D 3\n");
-  
+  printf("a posição do navio 1: J,0; J,1; J,2\n");
+  printf("a posição do navio 2: D,3; E,3; F,3\n");
+
   return 0;
 }
